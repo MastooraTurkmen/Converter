@@ -34,6 +34,7 @@ button {
   border-radius: 5px;
   margin-top: 26px;
   margin-bottom: 34px;
+  cursor: pointer;
 }
 
 .main {
